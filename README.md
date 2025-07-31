@@ -10,7 +10,7 @@
 ### 💻 About Me
 - 🎓 I'm currently pursuing **MCA**
 - 🔭 I’m working on **AI-based content and full-stack web apps**
-- 🌱 I’m learning **Spring Boot, React, and DevOps tools**
+- 🌱 I’m learning **Spring Boot, React**
 - 👨‍💻 All of my projects are available on [my GitHub](https://github.com/Nileshbhambale003)
 - ⚡ Fun fact: I love turning ideas into real products using AI + Code!
 
@@ -42,6 +42,6 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="mailto:nileshbhambale003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nileshbhambale@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nileshbhambale"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
